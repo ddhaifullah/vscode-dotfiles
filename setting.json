@@ -1,0 +1,75 @@
+{
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "window.menuBarVisibility": "toggle",
+  "editor.fontSize": 12,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "'Fira Code'",
+  "extensions.autoUpdate": true,
+  "terminal.explorerKind": "both",
+  "terminal.sourceControlRepositoriesKind": "both",
+  "telemetry.telemetryLevel": "off",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "vscode_custom_css.imports": [
+    "file:///home/mai/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "editor.fontLigatures": false,
+  "editor.cursorBlinking": "expand",
+  "explorer.confirmDragAndDrop": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "html": true,
+    "css": true
+  },
+  "workbench.editorAssociations": {
+    "*.xlsx": "default"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "jupyter.askForKernelRestart": false,
+  "css.lint.unknownAtRules": "ignore",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "gitlens.views.branches.branches.layout": "list",
+  "git.confirmSync": false,
+  "terminal.integrated.env.windows": {},
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file:///c:/Users/lenov/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "animations.CursorAnimation": true,
+  "animations.CursorAnimationOptions": {
+    "TrailLength": 5,
+  },
+  "apc.electron": {
+    "opacity": 0.95,
+    "backgroundColor": "#000",
+    "vibrancy": "ultra-dark",
+  },
+  "workbench.productIconTheme": "material-product-icons",
+  "apc.sidebar.titlebar": {
+    "enabled": true,
+  },
+  "terminal.integrated.env.linux": {},
+  "workbench.layoutControl.enabled": false,
+  "workbench.statusBar.visible": true,
+  "window.commandCenter": false,
+  "editor.lineNumbers": "off",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 1,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.linkedEditing": true,
+  "update.mode": "manual",
+}
